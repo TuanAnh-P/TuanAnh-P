@@ -17,7 +17,7 @@
 
 </div>
 
-- **☁️ AWS Cloud Specialization** - Mastering cloud architecture & AWS services (EC2, EKS, S3, Lambda)
+- **☁️ AWS Cloud Specialization** - Mastering cloud architecture & AWS services
 - **🧩 LeetCode Grind** - Solving algorithms and data structures daily
 
 <div align="center">
