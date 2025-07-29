@@ -104,10 +104,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuanAnh-P&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-### 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TuanAnh-P&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 ### 🏆 GitHub Achievements
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=TuanAnh-P&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
@@ -122,7 +118,6 @@
 
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1tuananhp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-anh-pham-0317b2224/)
-[![LeetCode](https://img.shields.io/badge/🧩_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/TuanAnh-P/)
 
 ### 🌟 Current Status
 
