@@ -119,32 +119,7 @@
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1tuananhp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-anh-pham-0317b2224/)
 
-### 🌟 Current Status
-
-```typescript
-const tuanAnh = {
-  location: "Montreal, QC 🇨🇦",
-  languages: ["English", "French"],
-  currentFocus: ["AWS Cloud Architecture", "Algorithms & Data Structures"],
-  seeking: "Internships",
-  availableFor: ["Internships", "Collaboration", "Open Source Projects"],
-  funFact: "I debug in both English and French! 🐛",
-};
-```
-
-### 🎯 Open to Opportunities
-
-**🚀 Actively seeking internships or full-time positions**
-
-_Interested in Cloud Computing, Software Development, and System Architecture roles_
-
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=TuanAnh-P&color=2F80ED&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/TuanAnh-P?style=flat-square&color=2F80ED&label=Followers)
-![GitHub User's stars](https://img.shields.io/github/stars/TuanAnh-P?style=flat-square&color=2F80ED&label=Stars)
-
-**✨ Thanks for visiting! Feel free to reach out if you'd like to collaborate on something awesome ✨**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer)
 
