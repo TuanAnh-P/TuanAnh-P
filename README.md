@@ -100,10 +100,6 @@
 
 ## 📊 GitHub Analytics & Activity
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuanAnh-P&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
 ### 🏆 GitHub Achievements
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=TuanAnh-P&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
