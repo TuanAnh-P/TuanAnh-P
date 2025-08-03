@@ -12,7 +12,7 @@
 
 |                         💼 **Experience**                          |                     🔭 **Focus Areas**                     |                                                                                                                                     📱 **Connect**                                                                                                                                     |
 | :----------------------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Full-Stack Dev** @ Flexspring<br/>**5G Software Dev** @ Ericsson | ☁️ AWS Cloud Specialization<br/>🧩 Daily LeetCode Practice | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1tuananhp@gmail.com)<br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-anh-pham-0317b2224/) |
+| **Full-Stack Dev** @ Flexspring<br/>**5G Software Dev** @ Ericsson | ☁️ AWS Cloud Specialization<br/>🧩 LeetCode Grind | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1tuananhp@gmail.com)<br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-anh-pham-0317b2224/) |
 
 ---
 
