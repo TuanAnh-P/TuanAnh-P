@@ -111,8 +111,4 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:1BFFFF,100:2E3192&height=100&section=footer)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=TuanAnh-P&color=1BFFFF&style=flat-square&label=Profile+Views)](https://github.com/TuanAnh-P)
-
-<sub>💙 Thanks for visiting! Feel free to reach out.</sub>
-
 </div>
