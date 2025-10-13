@@ -1,49 +1,101 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Hi%20there!%20I'm%20Tuan%20Anh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Cloud%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:00D4FF&height=150&section=header&text=Tuan%20Anh%20Pham&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Building%20Scalable%20Solutions&descAlignY=55&descAlign=center)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=AWS+Cloud+Architecture;LeetCode+Daily+Grind;Full-Stack+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1BFFFF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;Cloud+Architecture+%7C+Full-Stack+Development;LeetCode+Problem+Solver+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
 
-🎓 **Software Engineering Student** @ Concordia University | 📍 Montreal, QC 🇨🇦 | 🗣️ EN/FR
+<br/>
 
----
+```yaml
+🎓 Education: Software Engineering @ Concordia University
+💼 Current: Software Engineering Intern @ SAP
+📍 Location: Montreal, QC 🇨🇦
+🗣️ Languages: English | Français
+```
 
-## 🚀 **Quick Overview**
+<br/>
 
-|                         💼 **Experience**                          |                     🔭 **Focus Areas**                     |                                                                                                                                     📱 **Connect**                                                                                                                                     |
-| :----------------------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Full-Stack Dev** @ Flexspring<br/>**5G Software Dev** @ Ericsson | ☁️ AWS Cloud Specialization<br/>🧩 LeetCode Grind | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1tuananhp@gmail.com)<br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-anh-pham-0317b2224/) |
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:1tuananhp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-anh-pham-0317b2224/)
 
----
+</div>
 
-## 🛠️ **Tech Stack**
+<br/>
 
-**Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+<h3 align="center">💼 Experience</h3>
 
-**Frontend:** ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-**Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+**🚀 Currently Building @**
 
-**Database & Cloud:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+<img src="https://img.shields.io/badge/SAP-Software_Engineering_Intern-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP"/>
 
-**DevOps:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+<br/>
 
----
+**📌 Previously Contributed @**
 
-## 📊 **GitHub & LeetCode Stats**
+<img src="https://img.shields.io/badge/Flexspring-Software_Developer-667eea?style=flat-square" alt="Flexspring"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Ericsson-Software_Developer-0082FC?style=flat-square&logo=ericsson&logoColor=white" alt="Ericsson"/>
+
+</div>
+
+<br/>
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<div align="center">
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,go,java,python,cpp&theme=dark&perline=6" alt="Languages" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark&perline=4" alt="Frontend" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark&perline=3" alt="Backend" />
+</p>
+
+**Database & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,aws,supabase,firebase&theme=dark&perline=5" alt="Database & Cloud" />
+</p>
+
+**DevOps & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,jenkins&theme=dark&perline=5" alt="DevOps & Tools" />
+</p>
+
+</div>
+
+<br/>
+
+<h3 align="center">📊 GitHub & LeetCode Stats</h3>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center" style="border: none;">
 
-### 🏆 GitHub Achievements
+**🏆 GitHub Achievements**
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=TuanAnh-P&theme=tokyonight&no-frame=true&column=3&margin-w=5&margin-h=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TuanAnh-P&theme=tokyonight&no-frame=true&column=3&margin-w=10&margin-h=10)
 
 </td>
-<td width="50%">
+<td width="50%" align="center" style="border: none;">
 
-### 🧠 LeetCode Progress
+**🧠 LeetCode Progress**
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/TuanAnh-P?theme=dark&font=Noto%20Sans&ext=contest)
 
@@ -51,8 +103,16 @@
 </tr>
 </table>
 
----
+</div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
+<br/>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:1BFFFF,100:2E3192&height=100&section=footer)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=TuanAnh-P&color=1BFFFF&style=flat-square&label=Profile+Views)](https://github.com/TuanAnh-P)
+
+<sub>💙 Thanks for visiting! Feel free to reach out.</sub>
 
 </div>
