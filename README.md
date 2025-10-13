@@ -1,14 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:00D4FF&height=150&section=header&text=Tuan%20Anh%20Pham&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Building%20Scalable%20Solutions&descAlignY=55&descAlign=center)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:00D4FF&height=150&section=header&text=Tuan%20Anh%20Pham&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1BFFFF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;Cloud+Architecture+%7C+Full-Stack+Development;LeetCode+Problem+Solver+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1BFFFF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;Always+Learning+and+Growing)](https://git.io/typing-svg)
 
 <br/>
 
 ```yaml
 🎓 Education: Software Engineering @ Concordia University
-💼 Current: Software Engineering Intern @ SAP
+💼 Current: Software Developer Intern @ SAP
 📍 Location: Montreal, QC 🇨🇦
 🗣️ Languages: English | Français
 ```
@@ -28,15 +28,15 @@
 
 **🚀 Currently Building @**
 
-<img src="https://img.shields.io/badge/SAP-Software_Engineering_Intern-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP"/>
+<img src="https://img.shields.io/badge/SAP-Software_Developer_Intern-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP"/>
 
 <br/>
 
 **📌 Previously Contributed @**
 
-<img src="https://img.shields.io/badge/Flexspring-Software_Developer-667eea?style=flat-square" alt="Flexspring"/>
+<img src="https://img.shields.io/badge/Flexspring-Software_Developer_Intern-667eea?style=flat-square" alt="Flexspring"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Ericsson-Software_Developer-0082FC?style=flat-square&logo=ericsson&logoColor=white" alt="Ericsson"/>
+<img src="https://img.shields.io/badge/Ericsson-Software_Developer_Intern-0082FC?style=flat-square&logo=ericsson&logoColor=white" alt="Ericsson"/>
 
 </div>
 
